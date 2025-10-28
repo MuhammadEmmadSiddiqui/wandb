@@ -1,1 +1,1 @@
-A preview of how to use wandb to for logs
+A preview of how to use wandb to for logs of the model
